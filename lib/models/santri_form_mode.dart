@@ -1,0 +1,1 @@
+enum SantriFormMode { add, edit }
